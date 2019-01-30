@@ -31,21 +31,23 @@ Common examples of Fluent Interfaces are:
           
 **Usage**
 
+Follow installation instructions above to install the unit-convert tool globally.
+
 Convert millimetres to feet
 
-    # ./unit-convert --convert 100 --from mm --to ft
+    # unit-convert --convert 100 --from mm --to ft
     
 Convert celcius to fahrenheit 
 
-    # ./unit-convert --convert 100 --from C --to F
+    # unit-convert --convert 100 --from C --to F
     
 Show all possible conversion units
 
-    # ./unit-convert --possibilities
+    # unit-convert --possibilities
     
 Show all possible conversion units from a particular unit
 
-    # ./unit-convert --possibilities --from C
+    # unit-convert --possibilities --from C
     
 **Running tests**
 
