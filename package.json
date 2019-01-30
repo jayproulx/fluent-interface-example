@@ -1,6 +1,6 @@
 {
   "name": "fluent-interface-example",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "A fluent interface, with unit conversions as the example.",
   "main": "unit-convert.js",
   "scripts": {
