@@ -37,7 +37,7 @@ Convert millimetres to feet
 
     # unit-convert --convert 100 --from mm --to ft
     
-Convert celcius to fahrenheit 
+Convert celsius to fahrenheit 
 
     # unit-convert --convert 100 --from C --to F
     
