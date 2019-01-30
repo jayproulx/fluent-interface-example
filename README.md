@@ -50,3 +50,16 @@ Show all possible conversion units from a particular unit
 **Running tests**
 
     # npm run test
+    
+**Releasing** 
+
+This repository leverages git-flow (AVH) for its branding and merging strategy.  Releasing is automated via the 
+`generate-release` tool.
+
+Update patch version:
+
+    # npm run patch
+
+Update minor version:
+
+    # npm run release    
